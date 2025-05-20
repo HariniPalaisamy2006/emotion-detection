@@ -1,4 +1,3 @@
-Here's a well-structured and detailed `README.md` file for your Google Colab project. This file provides a professional overview, describes the steps in your notebook, and credits the contributors.
 
 ---
 
